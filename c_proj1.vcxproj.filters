@@ -15,11 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="temp.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\c_proj1_11\FormAI_111995.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\User\Pictures\image.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
