@@ -128,10 +128,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\c_proj1_11\FormAI_111995.c" />
+    <Image Include="C:\Users\User\Pictures\image.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="C:\Users\User\Pictures\image.bmp" />
+    <ClCompile Include="FormAI_111995.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
